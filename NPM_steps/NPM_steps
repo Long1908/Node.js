@@ -1,0 +1,9 @@
+-NPM is an external manager for ready modules created from other people and ready to use <br>
+-To use npm from the console/terminal furs ofcourse install the command by typing 'sudo apt-install npm'<br>
+-Then in the directory with the js file that we are going to use our external module with, we write in the <br>
+terminal 'npm init'. There we will follow simple and fill down simple forums. <br>
+-Once that is done, we will see that in our directory, there is created 'package.json'. If so then we have <br>
+worked correctly. 
+-Now by browsing in https://www.npmjs.com/ , in the search bar, we cna search for the package module that we <br>
+want to use. For example if we want to do something with superheroes, all we do is write superheroes in the <br>
+serach bar in the site.
