@@ -1,0 +1,2 @@
+All the functionality that we can do using the node modules are written in : https://nodejs.org/api/fs.html. <br>
+They are NATIVE which means that they are given to us when we install Node.
